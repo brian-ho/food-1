@@ -3,12 +3,6 @@
 Note: frame this as a  presentation of a business concept design, based on existing business plan. Less quantitative, more qualitative and experiential?
 
 
-
-## (qualifications)
-Note: where are they?
-
-
-
 # 1. Farms and farmers
 Note: where are they?
 
@@ -18,6 +12,11 @@ Note: where are they?
 - **getting larger:** mean 450 acres, but median at 1000 acres
 - **making less:** declining ratio to prices, but 2016 average net cash farm income (NCFI) = $102,200
 - **getting older:** US Labor Department says 58 years old
+
+
+## The "forgotten" farmer
+![market](images/farming.jpg)
+- **migrant farmwoerks:** estimated 3 million
 
 
 ## The missing middle farm
@@ -72,3 +71,10 @@ Note: how might we help?
 
 ## Reimer Robotics
 <iframe src="https://www.youtube.com/embed/mYEHvuDq2Fs" frameborder="0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+# 4. Question
+
+
+## How might we empower mid-scale farms and farmers?
