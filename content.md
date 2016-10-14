@@ -73,7 +73,7 @@ Note: future of farming
 ![market](images/drone1.jpg)
 Obligatory drone picture.
 
-
+  
 ## John Deere Precision Ag
 <iframe src="https://www.youtube.com/embed/jEh5-zZ9jUg" frameborder="0" width="1280" height="720" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
