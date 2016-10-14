@@ -19,7 +19,7 @@ Note: small but important demographic
 ## The "forgotten" farmer
 ![market](images/farming.jpg)
 - **migrant farmworkers:** estimated 3 million, documented and undocumented
-- **compounding social impacts:** itinerant population, socioeconomic underserved
+- **compounding social impacts:** itinerant population, underserved socioeconomic areas
 Note: statistics misleading
 
 
