@@ -1,10 +1,10 @@
-# Food / Production / Environmental Justice
+# Food x Production x Environmental Justice
  *Brian Ho    CDE Studio    2016.10.14*
-Note: frame this as a  presentation of a business concept design, based on existing business plan. Less quantitative, more qualitative and experiential?
+Note: attempting to connect disparate subjects, wanting to feed gaps
 
 
 # 1. Farms and farmers
-Note: where are they?
+Note: who are they, and where are they? need to seek hard data.
 
 
 ## The "average" farm and farmer
@@ -12,12 +12,14 @@ Note: where are they?
 - **getting larger:** mean 450 acres, but median at 1000 acres
 - **making less:** declining ratio to prices, but 2016 average net cash farm income (NCFI) = $102,200
 - **getting older:** US Labor Department says 58 years old
+Note: small but important demographic
 
 
 ## The "forgotten" farmer
 ![market](images/farming.jpg)
 - **migrant farmworkers:** estimated 3 million, documented and undocumented
 - **compounding social impacts:** itinerant population, socioeconomic underserved
+Note: statistics misleading
 
 
 ## The missing middle farm
@@ -26,6 +28,7 @@ Note: where are they?
   <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><span class="fragment" data-fragment-index="3">![new image](images/utopia.jpg) **THE MIDDLE?**</span></div>
   <div class="flex-item" style="-webkit-flex: 1; flex: 1;"><span class="fragment" data-fragment-index="2">![new image](images/small farm.jpg) **DIRECT**</span></div>
 </div>
+Note: statistics misleading
 
 
 ## History
@@ -34,20 +37,19 @@ Note: where are they?
 - **post-WWII:** USDA focus on industrialization via Ezra Benson
 - **"get big or get out":** Earl Butz, and a shift to a globalized food economy
 - **oil crisis and the modern era:** increasing production, declining prices
-
-Note: "The Agriculture Marketing Act, which established the Federal Farm Board in 1929. AAA reduced agricultural production by paying farmers subsidies not to plant on part of their land and to kill off excess livestock. Its purpose was to reduce crop surplus and therefore effectively raise the value of crops."
+Note: "The Agriculture Marketing Act, which established the Federal Farm Board in 1929. AAA reduced agricultural production by paying farmers subsidies not to plant on part of their land and to kill off excess livestock. Its purpose was to reduce crop surplus and therefore effectively raise the value of crops." Larger societal shifts.
 
 
 
 # 2. Agribusiness
-Note: who are they?
+Note: Segue into industrialization.
 
 
 ## Farm as industry
 - **larger farms, fewer crops:** shrinking political capital
 - **fewer farmers:** 21 million workers, about 2% of total population
 - **vertical integration:** farmers purchase equipment and supplies from their product buyers
-- **extended commodity supply chain:** limited direct access to markets
+- **extended commodity supply chain:** limited direct access to markets for farmers
 
 
 ## Bowman v. Monsanto Co. - 2013
@@ -75,9 +77,9 @@ Note: how might we help?
 
 
 
-# 4. Question
+# 4. Possible questions + directions
 
 
-## How might we challenge ownership and creation of technology?
-## How might we empower mid-scale farms and farmers?
-## How might we reconsider a growing rural-urban divide?
+<h3 class="fragment">How might we challenge ownership and creation of technology?</h3 class="fragment">
+<h3 class="fragment">How might we empower mid-scale farms and farmers?</h3 class="fragment">
+<h3 class="fragment">How might we reconsider a growing rural-urban divide?</h3 class="fragment">
