@@ -16,7 +16,8 @@ Note: where are they?
 
 ## The "forgotten" farmer
 ![market](images/farming.jpg)
-- **migrant farmwoerks:** estimated 3 million
+- **migrant farmworkers:** estimated 3 million, documented and undocumented
+- **compounding social impacts:** itinerant population, socioeconomic underserved
 
 
 ## The missing middle farm
@@ -77,4 +78,6 @@ Note: how might we help?
 # 4. Question
 
 
+## How might we challenge ownership and creation of technology?
 ## How might we empower mid-scale farms and farmers?
+## How might we reconsider a growing rural-urban divide?
