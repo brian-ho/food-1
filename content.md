@@ -65,7 +65,7 @@ Note: Segue into industrialization.
 
 
 # 3. Technology
-Note: how might we help?
+Note: future of farming
 
 
 ## John Deere Precision Ag
