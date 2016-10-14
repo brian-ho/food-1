@@ -144,7 +144,7 @@
 			backgroundTransition: 'concaves', // none/fade/slide/convex/concave/zoom
 
 			// Parallax background image
-			parallaxBackgroundImage: 'images/background.tif', // CSS syntax, e.g. "a.jpg"
+			parallaxBackgroundImage: 'images/background.jpg', // CSS syntax, e.g. "a.jpg"
 
 			// Parallax background size
 			parallaxBackgroundSize: '2100px 1400px', // CSS syntax, e.g. "3000px 2000px"
